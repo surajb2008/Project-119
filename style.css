@@ -1,0 +1,19 @@
+body
+{
+background-color: deepskyblue;
+}
+#Score
+{
+font-size: 30px;
+margin-left: 100px;
+}
+#Timer
+{
+font-size: 30px;
+float: right;
+margin-right: 100px;
+}
+#sketchtobedrawn
+{
+color:black;
+}
